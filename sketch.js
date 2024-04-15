@@ -103,7 +103,7 @@ function keyPressed() {
 
 
 
-// The Coding Train Asteroid video was the foundation of my project
+// The Coding Train Asteroid video was the foundation of our project
 // Part 1: https://www.youtube.com/watch?v=hacZU523FyM
 // Part 2: https://www.youtube.com/watch?v=xTTuih7P0c0
-// Timer : https://editor.p5js.org/denaplesk2/sketches/ryIBFP_lG
+// Project that we referenced to make our timer: https://editor.p5js.org/denaplesk2/sketches/ryIBFP_lG
